@@ -12,7 +12,7 @@
 
 ```bash
 git clone [프로젝트_레포지토리_URL]
-cd tosspayments-widget-exmaple/svelt-frontend
+cd tosspayments-widget-exmaple
 yarn install
 ```
 
