@@ -140,3 +140,7 @@ svelt-frontend/
 *   **브라우저 개발자 도구:** 콘솔 탭에서 오류 메시지를 확인하고, 네트워크 탭에서 API 요청 및 응답을 확인하여 문제의 원인을 파악하세요.
 
 ---
+
+<a href="https://www.buymeacoffee.com/katpyeon" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="40" />
+</a>
